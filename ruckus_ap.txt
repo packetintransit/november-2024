@@ -1,0 +1,16 @@
+
+
+Explanation
+
+	1.	Fetching Access Point Data:
+	•	The get_access_points function queries the Ruckus API endpoint for access points (/v9_1/aps).
+	•	The API provides the list of access points along with their statuses (e.g., “Online”, “Offline”).
+	2.	Email Notifications:
+	•	The send_notification function sends an email alert when access points go offline.
+	3.	Monitoring and Polling:
+	•	The monitor_access_points function runs continuously, checking the status of all access points at regular intervals (POLL_INTERVAL).
+	•	Compares the current status with the previous status to detect changes.
+	4.	Error Handling:
+	•	Catches errors when connecting to the controllers or sending notifications.
+	5.	Email Setup:
+	•	Replace the SMTP settings with your email provider’s details (e.g., Gmail, Outlook).
