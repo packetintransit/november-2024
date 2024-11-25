@@ -1,0 +1,9 @@
+---
+
+cisco_group:
+    platform: 'ios'
+switch:
+    platform: "cisco_ios"
+    snmp_server_group: "Accor-Switch-SNMP"
+    snmp_server_user: "Accor-Switch-SNMP-User"
+    snmp_version: "v3"

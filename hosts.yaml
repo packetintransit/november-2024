@@ -1,0 +1,617 @@
+---
+CA-HA550-ADMIN-BASE-SWITCH-9300:
+    hostname: 10.127.151.129
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-FIBER-DISTRO-01:
+    hostname: 10.127.151.130
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-A:
+    hostname: 10.127.151.131
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-B:
+    hostname: 10.127.151.132
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-C:
+    hostname: 10.127.151.133
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-D:
+    hostname: 10.127.151.134
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-E:
+    hostname: 10.127.151.135
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-F:
+    hostname: 10.127.151.136
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-G:
+    hostname: 10.127.151.137
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SRV-OFFICE:
+    hostname: 10.127.151.138
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-FGOLD-BASE:
+    hostname: 10.127.151.139
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-IT-BASE:
+    hostname: 10.127.151.140
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-STAFFHSG:
+    hostname: 10.127.151.141
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SM-OFFICE:
+    hostname: 10.127.151.143
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-GOLF-MAINTENANCE:
+    hostname: 10.127.151.144
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-Admin-CC-2ndMech-Room:
+    hostname: 10.127.151.145
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-Admin-CC-3rdMech-Room:
+    hostname: 10.127.151.146
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-S-LEVEL:
+    hostname: 10.127.151.147
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-GROUNDS:
+    hostname: 10.127.151.148
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-RUNDLE-BASE:
+    hostname: 10.127.151.149
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-RUNDLE-A:
+    hostname: 10.127.151.150
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-GOLFCLUBHOUSE-BASE:
+    hostname: 10.127.151.151
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-GOLFCLUBHOUSE-SW-A:
+    hostname: 10.127.151.152
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-8FLR-SW-BA:
+    hostname: 10.127.151.153
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-RACK1:
+    hostname: 10.127.151.154
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-RACK2:
+    hostname: 10.127.151.155
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SROOM-RACK3:
+    hostname: 10.127.151.156
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SPA-BASE:
+    hostname: 10.127.151.157
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SPA-A:
+    hostname: 10.127.151.158
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SPA-B:
+    hostname: 10.127.151.159
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SPA-C:
+    hostname: 10.127.151.160
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SPASNDRM-BASE:
+    hostname: 10.127.151.161
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-ELEC-BASE:
+    hostname: 10.127.151.162
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-ELECTRICAL-A:
+    hostname: 10.127.151.163
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-ELECTRICAL-B:
+    hostname: 10.127.151.164
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-ELECTRICAL-C:
+    hostname: 10.127.151.165
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-ELECTRICAL-D:
+    hostname: 10.127.151.166
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-ELECTRICAL-E:
+    hostname: 10.127.151.167
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-TC-A:
+    hostname: 10.127.151.168
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-BASE:
+    hostname: 10.127.151.169
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-C:
+    hostname: 10.127.151.170
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-G:
+    hostname: 10.127.151.171
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-A:
+    hostname: 10.127.151.172
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-B:
+    hostname: 10.127.151.173
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-D:
+    hostname: 10.127.151.174
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-E:
+    hostname: 10.127.151.175
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-EXEC-F:
+    hostname: 10.127.151.176
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-STOCK-01:
+    hostname: 10.127.151.177
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-CC-BASE:
+    hostname: 10.127.151.178
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-CC-SNDRM:
+    hostname: 10.127.151.179
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-BANQUETS-BASE:
+    hostname: 10.127.151.180
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-BANQUETS-A:
+    hostname: 10.127.151.181
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-17thFLR-BASE:
+    hostname: 10.127.151.182
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SALES-BASE:
+    hostname: 10.127.151.183
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-SALES-A:
+    hostname: 10.127.151.184
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
+CA-HA550-ADMIN-WALDHAUS:
+    hostname: 10.127.151.185
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: ha550
