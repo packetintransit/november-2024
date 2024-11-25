@@ -1,0 +1,12 @@
+- name: Deploy Switch Configuration
+  hosts: all
+  gather_facts: no
+  tasks:
+    - name: Apply full switch configuration
+      cisco.ios.ios_config:
+        lines: "{{ lookup('file', 'Generic_Admin_Switch_Template.txt').splitlines() }}"
+        save_when: always
+    - name: Verify configuration
+      cisco.ios.ios_command:
+        commands:
+          - show running-config
